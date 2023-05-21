@@ -1,5 +1,6 @@
 archive
 .venv
-wavs
+wavs/*.wav
 .DS_Store
 __pycache__
+
