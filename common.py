@@ -27,7 +27,7 @@ def extract_features(audio_data):
 	# Remember that the audio data consists of raw audio wave followed by sample rate
 	# so we need to only take the raw audio wave.
 	audio_waves = audio_data[:,0]
-	samplerate = audio_data[:,1][1]
+	samplerate = audio_data[:,1][0]
 
 	features = []
 	for audio_wave in tqdm(audio_waves):
