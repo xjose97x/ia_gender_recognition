@@ -1,4 +1,4 @@
-# Proyeto inteligencia Artificial 1
+# Proyecto inteligencia Artificial 1
 ## Integrantes: Miguel Brito, José I. Escudero
 ## Tema: Reconocimiento de genero mediante voz
 
